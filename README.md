@@ -67,6 +67,4 @@ sudo python3 reset_augment.py
 
 **Created by: Aniruddha ...!**
 
-## 📝 License
 
-MIT License - Use at your own risk. Always backup important data before running cleanup scripts.
