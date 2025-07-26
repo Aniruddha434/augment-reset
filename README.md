@@ -67,4 +67,14 @@ sudo python3 reset_augment.py
 
 **Created by: Aniruddha ...!**
 
-
+V2 --------------------------------------------
+Date - 26- 7 
+Follow this Steps For getting 50 Request 
+1 Log out from All the places related augment 
+2 Use script 
+3 Create new Account with temp mail 
+4 wait until band 
+5 After ban Go to the augmented Website amd change plan to the Community plan 
+5 Refresh Augment 1,2 times i will auto gets Working 
+For now use thsi Wait for the Full fix 
+❤️
