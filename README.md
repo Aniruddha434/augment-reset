@@ -2,7 +2,7 @@
 
 A Python script to completely reset and clean all Augment Code extension data from VS Code, allowing you to start fresh with a new account.
 
-joint this channel for Updates https://t.me/augmentSolitions
+joint this channel for Updates https://t.me/augmentsolitions
 
 ## 🚀 Features
 
